@@ -13,7 +13,7 @@ handleChange(event) {
     text: event.target.value
   });
 }
-  
+
   render() {
     return(
       <div>
